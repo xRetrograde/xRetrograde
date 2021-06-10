@@ -1,1 +1,1 @@
-[![Header](https://github.com/xRetrograde/xRetrograde/blob/main/assets/header.png)]
+![Header](https://github.com/xRetrograde/xRetrograde/blob/main/assets/header.png)
